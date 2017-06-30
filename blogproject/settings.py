@@ -25,7 +25,7 @@ SECRET_KEY = 'cmjay7jx+26+)%xyg+vfa5g#2g0nfq(l%4a3cyrjz5f2xdn5^%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '.lzb.space'， ‘120.77.150.76’]
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '.lzb.space', '120.77.150.76’]
 
 
 # Application definition
